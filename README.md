@@ -20,8 +20,6 @@ full-text search works. This was prepared for a talk at Frappe Build 2025.
      .venv\Scripts\activate
      ```
 
-3. (Optional) Install additional tools or libraries as needed.
-
 ## Setting up Jupyter Notebook
 
 1. Install Jupyter Notebook in the virtual environment:
